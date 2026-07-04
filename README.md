@@ -9,14 +9,34 @@ real office workflows and HR pain points I identified independently.
 
 ## 💡 My Idea & Design Thinking
 
-I designed this system thinking from an HR manager's perspective:
-- Who uses this system? (Admins vs Employees)
-- What data needs to stay private? (Employee shouldn't see others' profiles)
-- What real problems does HR face? (Leave tracking, salary management)
-- What edge cases could break the system? (Wrong ID, duplicate passwords)
+## 💡 Project Origin — My Own Idea
 
-Every feature in this project came from my own product thinking,
-not from tutorials or templates.
+This project was NOT built from a tutorial or copied from anywhere.
+
+The entire concept came from a real problem I identified:
+> "Small and medium companies still manage employees using Excel sheets. 
+> HR loses track of attendance, leaves are noted manually, and salary 
+> calculations are done by hand every month. There had to be a better way."
+
+I sat down and asked myself:
+- What does an HR manager actually need daily?
+- What should an employee be able to do themselves?
+- What data should be private and what should be shared?
+- What happens if someone enters wrong information?
+
+Every answer to these questions became a feature in this system.
+Nobody gave me these requirements — I identified them myself by 
+thinking like both an HR manager AND an employee.
+
+**The role-based access idea** — mine.
+**The leave categories** — mine.  
+**The end date calculation for leaves** — mine.
+**Total compensation display** — mine.
+**Default password with change password feature** — mine.
+**Employee existence validation before any operation** — mine.
+
+The code syntax was learned through practice and guidance.
+The product thinking and feature design — entirely mine.
 
 ---
 
